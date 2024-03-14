@@ -4,7 +4,7 @@ The Data Analytics Journey (D205):
 This course provides an overview of the data analytics field, covering essential concepts, methodologies, and industry trends. You’ll explore the journey from raw data to actionable insights.
 
 Data Acquisition (D206):
-Learn techniques for collecting and retrieving data from various sources. Understand data pipelines, APIs, and data integration methods.
+Learn techniques for collecting and retrieving data from various sources. Understand data pipelines and data integration methods.
 
 Data Cleaning (D207):
 Dive into data quality and preprocessing. Explore strategies for handling missing values, outliers, and inconsistencies.
